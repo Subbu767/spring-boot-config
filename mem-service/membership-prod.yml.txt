@@ -1,3 +1,0 @@
-service:
-  greeting: Hello from from membership-prod.yml
-  id: 888888888

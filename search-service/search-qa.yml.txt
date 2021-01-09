@@ -1,3 +1,0 @@
-service:
-  greeting: Hello from from search-QA.yml
-  id: 000000
