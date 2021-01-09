@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from from rpt-prod.yml
+  id: 00000000000

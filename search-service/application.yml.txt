@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from from search global app.yml
+  id: 00000000
